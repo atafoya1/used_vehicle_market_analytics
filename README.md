@@ -8,7 +8,7 @@ An interactive, multi-tier Tableau portfolio dashboard analyzing **~558,000 used
 ---
 
 ## Dashboard Preview
-![Dashboard Layout Preview](<img width="953" height="574" alt="dashboard_preview" src="https://github.com/user-attachments/assets/145e8f12-cbeb-43c3-9997-4b1c275ff376" />)
+<img width="953" height="574" alt="dashboard_preview" src="https://github.com/user-attachments/assets/145e8f12-cbeb-43c3-9997-4b1c275ff376" />
 
 ---
 
